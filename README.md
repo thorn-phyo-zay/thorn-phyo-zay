@@ -1,4 +1,4 @@
-- 👋 Hi, I’m somebody.
+- 👋 Hi, I’m Thorn Phyo Zay. I'm trying to make a OS.
 - 👀 I’m interested in Science and Programming
 - 🌱 I’m currently learning C, HTML, CSS and Secondary School subjects.
 
