@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Thorn Phyo Zay. I'm trying to make discord bots and more.
+- 👋 Hi, I’m Thorn Phyo Zay. I'm trying to make a OS and discord bots
 - 👀 I’m interested in astronomy and Programming
 - 🌱 I’m currently learning C, Python, Discord.py(Library), HTML and CSS.
 
